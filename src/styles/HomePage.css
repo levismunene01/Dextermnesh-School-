@@ -1,0 +1,53 @@
+.homepage {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2rem;
+    background: linear-gradient(to bottom right, #f0f8ff, #e6f7ff);
+    color: #333;
+    line-height: 1.7;
+  }
+  
+  section {
+    margin-bottom: 3rem;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 1rem;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    color: #007acc;
+    margin-bottom: 1rem;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+  }
+  
+  .intro h2 {
+    font-weight: normal;
+    font-size: 1.4rem;
+    color: #444;
+  }
+  
+  .model h1,
+  .excellence h1 {
+    font-size: 2rem;
+    margin-top: 0.5rem;
+    color: #ff5c8d;
+  }
+  
+  .model h3,
+  .excellence h3 {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #555;
+  }
+  
+  .model p,
+  .excellence p {
+    margin-top: 1rem;
+    font-size: 1rem;
+  }
+  
